@@ -1,6 +1,6 @@
 {
-    "Version": "1.1.0.9",
+    "Version": "1.1.1.0",
     "DownloadUrl": "https://github.com/LuilexDev/Headerstrap-Updates/releases/download/v1.1.0/Headerstrap_v1.1.0.zip",
-    "Changelog": "- v1.1.0.9: SOLUCIÓN DEFINITIVA HTTP 403.\n- CAMBIO: Se reemplazó el método CDN manual por el INSTALADOR OFICIAL de Roblox.\n- MEJORA: Mayor estabilidad en la actualización automática.\n\n- v1.1.0.8: HOTFIX CRÍTICO.\n- SOLUCINADO: Error HTTP 403 al actualizar Roblox.\n- MEJORA: Cambio a CDN oficial setup.rbxcdn.com.\n- MEJORA: Detección de versión más robusta.",
+    "Changelog": "- v1.1.1.0: LIMPIEZA DE CÓDIGO & FIX DEFINITIVO.\n- SOLUCIÓN: Eliminado todo el código antiguo de descarga CDN.\n- NUEVO: Instalación obligatoria vía Instalador Oficial.\n- MEJORA: Imposible que ocurra error 403 (Canal bloqueado).\n\n- v1.1.0.9: SOLUCIÓN DEFINITIVA HTTP 403.\n- CAMBIO: Se reemplazó el método CDN manual por el INSTALADOR OFICIAL de Roblox.\n- MEJORA: Mayor estabilidad en la actualización automática.",
     "Mandatory": true
 }
