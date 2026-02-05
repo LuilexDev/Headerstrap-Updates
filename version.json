@@ -1,6 +1,6 @@
 {
-    "Version": "1.1.0.0",
+    "Version": "1.1.0.1",
     "DownloadUrl": "https://github.com/LuilexDev/Headerstrap-Updates/releases/download/v1.1.0/Headerstrap_v1.1.0.zip",
-    "Changelog": "- Fix Crítico de Crashes (5min/Teleport)\n- Vulkan marcado como Experimental\n- Soporte para +2k Flags",
+    "Changelog": "- FIX CRÍTICO: Detección de versiones incorrecta arreglada.\n- FIX: error 'Falló la instalación' al actualizar (Ahora cierra Roblox correctamente).\n- Vulkan Experimental & Crashes de Teleport arreglados.",
     "Mandatory": true
 }
