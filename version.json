@@ -1,6 +1,6 @@
 {
-    "Version": "1.1.0.3",
+    "Version": "1.1.0.4",
     "DownloadUrl": "https://github.com/LuilexDev/Headerstrap-Updates/releases/download/v1.1.0/Headerstrap_v1.1.0.zip",
-    "Changelog": "- NUEVO: Opción para activar/desactivar Discord RPC.\n- FIX: Instalador más robusto (No más errores de acceso).\n- FIX: Detección de versión mejorada.",
+    "Changelog": "- v1.1.0.4: Optimización de RAM masiva (Fix 100MB+ usage).\n- NUEVO: Discord RPC Toggle en Configuración.\n- FIX: Estabilidad general del actualizador.",
     "Mandatory": true
 }
