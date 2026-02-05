@@ -1,6 +1,6 @@
 {
-    "Version": "1.1.0.5",
+    "Version": "1.1.0.6",
     "DownloadUrl": "https://github.com/LuilexDev/Headerstrap-Updates/releases/download/v1.1.0/Headerstrap_v1.1.0.zip",
-    "Changelog": "- v1.1.0.5: Mejoras críticas de seguridad y estabilidad.\n- NUEVO: Backup de registro antes de limpieza.\n- NUEVO: Verificación de compatibilidad OS al inicio.\n- NUEVO: Detección de offsets desactualizados.\n- NUEVO: Soporte Vulkan/OpenGL validado.\n- FIX: Estabilidad de inyección mejorada.\n- ELIMINADO: Key HEADERSTRAP-BETA.",
+    "Changelog": "- v1.1.0.6: Sistema de revocación de keys remota.\n- NUEVO: Re-validación de key en cada inicio.\n- NUEVO: Keys revocadas son expulsadas automáticamente.\n- v1.1.0.5: Mejoras de seguridad y estabilidad.",
     "Mandatory": true
 }
