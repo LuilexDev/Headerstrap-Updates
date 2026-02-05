@@ -1,6 +1,6 @@
 {
-    "Version": "1.1.0.6",
+    "Version": "1.1.0.7",
     "DownloadUrl": "https://github.com/LuilexDev/Headerstrap-Updates/releases/download/v1.1.0/Headerstrap_v1.1.0.zip",
-    "Changelog": "- v1.1.0.6: Sistema de revocación de keys remota.\n- NUEVO: Re-validación de key en cada inicio.\n- NUEVO: Keys revocadas son expulsadas automáticamente.\n- v1.1.0.5: Mejoras de seguridad y estabilidad.",
+    "Changelog": "- v1.1.0.7: Sistema de actualización de Roblox renovado.\n- NUEVO: Detección de versión LIVE desde API oficial.\n- NUEVO: Comparación local vs remota con indicador de estado.\n- NUEVO: Botón FORZAR ACTUALIZACIÓN cuando está desactualizado.\n- NUEVO: Descarga por manifest (sin web installer).\n- NUEVO: Logs detallados por paso en %LocalAppData%\\Headerstrap\\logs\\",
     "Mandatory": true
 }
