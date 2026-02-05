@@ -1,6 +1,6 @@
 {
-    "Version": "1.1.0.2",
+    "Version": "1.1.0.3",
     "DownloadUrl": "https://github.com/LuilexDev/Headerstrap-Updates/releases/download/v1.1.0/Headerstrap_v1.1.0.zip",
-    "Changelog": "- FIX CRÍTICO: Detección de versiones incorrecta arreglada.\n- FIX: error 'Falló la instalación' al actualizar (Ahora cierra Roblox correctamente).\n- Vulkan Experimental & Crashes de Teleport arreglados.",
+    "Changelog": "- NUEVO: Opción para activar/desactivar Discord RPC.\n- FIX: Instalador más robusto (No más errores de acceso).\n- FIX: Detección de versión mejorada.",
     "Mandatory": true
 }
