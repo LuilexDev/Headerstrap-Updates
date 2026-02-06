@@ -1,6 +1,6 @@
 {
-    "Version": "1.1.1.2",
+    "Version": "1.1.2.0",
     "DownloadUrl": "https://github.com/LuilexDev/Headerstrap-Updates/releases/download/v1.1.0/Headerstrap_v1.1.0.zip",
-    "Changelog": "- v1.1.1.2: INSTALACIÓN SILENCIOSA Y SEGURA.\n- SOLUCIÓN: El actualizador ahora espera inteligentemente a que termine la instalación real.\n- MEJORA: Se cierra automáticamente la ventana de 'Roblox ha sido instalado' o el juego si se abre solo.\n- PROTECCIÓN: Ya NO se borran configuraciones (Fidelidad, Sensibilidad, etc) ni logins al limpiar.\n\n- v1.1.1.1: OPTIMIZACIÓN DE LIMPIEZA.\n- SOLUCIÓN: Corregido el 'hang' (congelamiento) al limpiar carpetas.",
+    "Changelog": "- v1.1.2.0: CORRECCIONES CRÍTICAS & SILENCIOSO.\n- SOLUCIÓN: Arreglado bug donde las flags no cargaban al abrir Roblox por 2da vez.\n- PROTECCIÓN: 'Candado de Seguridad' para que NUNCA se borren tus configs/logins.\n- LIMPIEZA: Modo 100% Silencioso (Sin mensajes técnicos ni archivos basura).\n\n- v1.1.1.2: INSTALACIÓN INTELIGENTE (Smart Wait).",
     "Mandatory": true
 }
