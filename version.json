@@ -1,6 +1,6 @@
 {
-    "Version": "1.1.2.3",
+    "Version": "1.1.2.4",
     "DownloadUrl": "https://github.com/LuilexDev/Headerstrap-Updates/releases/download/v1.1.0/Headerstrap_v1.1.0.zip",
-    "Changelog": "- v1.1.2.3: ACTUALIZACIÓN LIMPIA Y SEGURA.\\n- MEJORA: El actualizador ahora reemplaza TODOS los archivos (limpieza profunda) manteniendo tu licencia y configuración.\\n- FIX: Solucionado error de 'inyección manual' en el texto.\\n- ESTABILIDAD: Mejoras en la detección de Roblox y seguridad de datos.",
+    "Changelog": "- v1.1.2.4: POLISH & SAFETY UPDATE.\\n- UI: Textos de estado mejorados (más discretos).\\n- UPDATE: Sistema de respaldo y limpieza total (0 residuos).\\n- FIX: Verificación final de integridad de archivos.",
     "Mandatory": true
 }
