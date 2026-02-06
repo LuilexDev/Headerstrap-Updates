@@ -1,6 +1,6 @@
 {
-    "Version": "1.1.2.0",
+    "Version": "1.1.2.2",
     "DownloadUrl": "https://github.com/LuilexDev/Headerstrap-Updates/releases/download/v1.1.0/Headerstrap_v1.1.0.zip",
-    "Changelog": "- v1.1.2.0: CORRECCIONES CRÍTICAS & SILENCIOSO.\n- SOLUCIÓN: Arreglado bug donde las flags no cargaban al abrir Roblox por 2da vez.\n- PROTECCIÓN: 'Candado de Seguridad' para que NUNCA se borren tus configs/logins.\n- LIMPIEZA: Modo 100% Silencioso (Sin mensajes técnicos ni archivos basura).\n\n- v1.1.1.2: INSTALACIÓN INTELIGENTE (Smart Wait).",
+    "Changelog": "- v1.1.2.2: EXPERT FIXES (Persistence + Security).\\n- FIXED: Injection now works on 2nd launch (Passive Watcher).\\n- SECURITY: License files are now hidden (System Attributes).\\n- CLEANUP: Updater deletes itself completely.",
     "Mandatory": true
 }
