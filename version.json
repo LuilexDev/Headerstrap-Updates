@@ -1,6 +1,6 @@
 {
-    "Version": "1.1.2.4",
+    "Version": "1.1.2.5",
     "DownloadUrl": "https://github.com/LuilexDev/Headerstrap-Updates/releases/download/v1.1.0/Headerstrap_v1.1.0.zip",
-    "Changelog": "- v1.1.2.4: POLISH & SAFETY UPDATE.\\n- UI: Textos de estado mejorados (más discretos).\\n- UPDATE: Sistema de respaldo y limpieza total (0 residuos).\\n- FIX: Verificación final de integridad de archivos.",
+    "Changelog": "- v1.1.2.5: FIRST-TIME UPDATE FIX.\\n- FIX: PowerShell window ya no aparece durante actualizaciones.\\n- FIX: Mecanismo de reinicio más robusto con fallback.\\n- FIX: Manejo de rutas con espacios mejorado.",
     "Mandatory": true
 }
